@@ -1,0 +1,24 @@
+# A vos calculatrices, 1 2 3 Soleil !
+
+# Superficie Georgie
+GE = 69700
+# Superficie Royaume Uni
+RO = 242495
+# Lunar Diameter
+LD = 3475
+# Superficie Suede 
+SE = 528860
+# Superficie iles Cook
+CK = 237
+# Superficie Panama
+PA = 75517
+# Superficie Laos
+LA = 236800
+# Superficie Islande
+IS = 103592
+# Perimetre 
+Mur = 2PiR
+# variable d´ajustement
+EST = 1259
+
+VieilleCalculette = SurfaceLune + 12*SurfacePays + SE - EST 
